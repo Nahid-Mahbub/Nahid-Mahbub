@@ -29,8 +29,6 @@ Explore my open-source work and follow my journey in backend engineering.
 
 </div>
 
----
-
 <h2 align="left">⚙️ Tech Stack</h2>
 
 <div align="center">
@@ -75,7 +73,6 @@ Explore my open-source work and follow my journey in backend engineering.
 
 </div>
 
-
 ## 🕹️ Fun Contribution Graph (Pac-Man)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kautilyadevaraj/kautilyadevaraj/output/pacman-contribution-graph-dark.svg">
@@ -83,7 +80,14 @@ Explore my open-source work and follow my journey in backend engineering.
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kautilyadevaraj/kautilyadevaraj/output/pacman-contribution-graph.svg">
 </picture>
 
----
+## 🧠 LeetCode Progress
+
+<div align="center">
+
+<!-- LeetCode Stats Card -->
+<img src="https://leetcard.jacoblin.cool/Nahid_Mahbub?theme=dark&font=Roboto&ext=heatmap" />
+
+</div>
 
 ## 🚀 About Me  
 - 🎓 CSE student at **Daffodil International University**
@@ -91,8 +95,6 @@ Explore my open-source work and follow my journey in backend engineering.
 - 🌱 Exploring **Clean Architecture & Scalable Backend Systems**  
 - 🤝 Looking to collaborate on **C#/.NET backend projects**  
 - 🎯 Goal: Become a top-tier **Backend Engineer (.NET)**  
-
----
 
 <div align="center">
 
