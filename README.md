@@ -86,7 +86,7 @@ Explore my open-source work and follow my journey in backend engineering.
 <div align="center">
 
 <!-- LeetCode Stats Card -->
-<img src="https://leetcard.jacoblin.cool/Nahid_Mahbub?theme=dark&font=Roboto&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/Nahid_Mahbub?theme=dark&font=Roboto" />
 
 </div>
 
