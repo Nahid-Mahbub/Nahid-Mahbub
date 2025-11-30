@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Hey!%20I'm%20Nahid%20Mahbub&fontColor=000000"/>
+    <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Hey!%20I'm%20Nahid%20Mahbub&fontColor=FFFFFF"/>
   </picture>
 </div>
 
